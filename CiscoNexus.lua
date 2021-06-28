@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------
 --
--- EtherCAT Protocol [wrapper] Plug-in for Wireshark
+-- Cisco Nexus Protocol Plug-in for Wireshark
 --
 -- date    : April, 16th 2019
 -- author  : Younes Dragoni (@ydragoni)
